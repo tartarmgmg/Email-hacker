@@ -1,0 +1,9 @@
+Install it by using Git Clone
+
+$Git clone https://github.com/cyb3r3x3r/EmailHackerCyb3r3x3r
+
+$Cd EmailHackerCyb3r3x3r
+
+$Chmod +x EmailHacker.sh
+
+$sh EmailHacker.sh
